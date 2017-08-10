@@ -6283,7 +6283,7 @@ GameObject:
   - component: {fileID: 293282717}
   - component: {fileID: 293282724}
   - component: {fileID: 293282725}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: MainCamera
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
@@ -15672,7 +15672,7 @@ MonoBehaviour:
         customNames:
         - 
         - 
-        actionEnabled: 0101
+        actionEnabled: 0100
         actionIsOpen: 0001
         actionStartIndex: 0000000004000000
         actionHashCodes: bdddbb00ac65eef1
@@ -15895,7 +15895,7 @@ MonoBehaviour:
         customNames:
         - 
         - 
-        actionEnabled: 0101
+        actionEnabled: 0001
         actionIsOpen: 0101
         actionStartIndex: 0000000003000000
         actionHashCodes: 683f244dbdddbb00
@@ -15983,7 +15983,7 @@ MonoBehaviour:
         - 
         - 
         - 
-        actionEnabled: 010101
+        actionEnabled: 000101
         actionIsOpen: 000000
         actionStartIndex: 00000000070000000e000000
         actionHashCodes: ac65eef1b9bd8835bdddbb00
@@ -16267,7 +16267,7 @@ MonoBehaviour:
         customNames:
         - 
         actionEnabled: 01
-        actionIsOpen: 00
+        actionIsOpen: 01
         actionStartIndex: 00000000
         actionHashCodes: 3334d172
         unityObjectParams: []
@@ -23615,7 +23615,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!192 &1291236761
 OcclusionArea:
   m_ObjectHideFlags: 0

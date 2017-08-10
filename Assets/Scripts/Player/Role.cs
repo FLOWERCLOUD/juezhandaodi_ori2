@@ -7,7 +7,7 @@ public class Role : MonoBehaviour {
 	private bool isDead = false;
 	public string uiSpritePathName;
 	void Awake() {
-		roleProfile = new RoleProfile("风云丶一笑",0,1500000,120000,70000,30000,25000,45000,40000);
+		roleProfile = new RoleProfile("风云丶一笑",0,15000000,120000,70000,30000,25000,45000,40000);
 		hp = roleProfile.HP;
 	}
 	void SetHPPercentToSprite()
